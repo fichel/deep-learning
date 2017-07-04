@@ -4,6 +4,7 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+intro-to-tensorflow/*.zip
 
 .ipynb_checkpoints/
 
@@ -12,8 +13,6 @@ face_generation/data/
 *.p
 *.pkl
 *.pickle
-*.zip
-*.tar.gz
 
 */.floyd*
 
