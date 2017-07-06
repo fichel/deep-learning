@@ -5,6 +5,8 @@ embeddings/data/
 embeddings/text8.zip
 face_generation/data/
 intro-to-tensorflow/*.zip
+image-classification/cifar-10-batches-py/
+image-classification/cifar-10-python.tar.gz
 
 .ipynb_checkpoints/
 
